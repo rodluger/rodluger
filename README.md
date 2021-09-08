@@ -5,6 +5,7 @@ I work on detecting 🛰 and characterizing habitable exoplanets 🌎 around nea
 
 ### Check out my popular repositories
 
+- 🪄 **[showyourwork](https://github.com/rodluger/showyourwork)** - a workflow for open source scientific articles
 - 🔔 **[starry-process](https://github.com/rodluger/starry_process)** - interpretable gaussian processes for stellar variability
 - 🌟 **[starry](https://github.com/rodluger/starry)** - tools for mapping stars and planets
 - 🪐 **[planetplanet](https://github.com/rodluger/planetplanet)** - tools for modeling planet-planet occultations
