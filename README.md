@@ -15,7 +15,7 @@ I work on detecting 🛰 and characterizing habitable exoplanets 🌎 around nea
 
 ### Almost all my first-author papers are hosted on GitHub
 
-- 📸 **paparazzi** [ [source](https://github.com/rodluger/paparazzi) | [draft](https://github.com/rodluger/paparazzi/raw/master-pdf/tex/ms.pdf) ]
+- 📸 **paparazzi** [ [source](https://github.com/rodluger/paparazzi) | [draft](https://github.com/rodluger/paparazzi/raw/main-pdf/tex/ms.pdf) ]
 - 🌙 **starrynight** [ [source](https://github.com/rodluger/starrynight) | [draft](https://github.com/rodluger/starrynight/raw/master-pdf/tex/ms.pdf) ]
 - 🔔 **starry-process** [ [source](https://github.com/rodluger/starry_process) | [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210201774L/abstract) ]
 - ✨ **mapping stellar surfaces II** [ [source](https://github.com/rodluger/mapping_stellar_surfaces/tree/master/paper2) | [paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L/abstract) ]
