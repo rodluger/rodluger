@@ -1,7 +1,6 @@
 ## I'm Rodrigo 🛰 ⭐️ 🌎 🪐 👽
 
-I'm an astronomer at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) in New York City.
-I work on detecting 🛰 and characterizing habitable exoplanets 🌎 around nearby stars ⭐️.
+I'm a researcher at [Anthropic](https://anthropic.com) investigating the safety of AI models. In a past life I was a software engineer working on autonomous vehicle safety at [Waymo](https://waymo.com), and in the life before that, an astronomer at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/).
 
 ### Check out my popular repositories
 
