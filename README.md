@@ -1,6 +1,6 @@
 ## I'm Rodrigo 🛰 ⭐️ 🌎 🪐 👽
 
-I'm a researcher at [Anthropic](https://anthropic.com) investigating the safety of AI models. In a past life I was a software engineer working on autonomous vehicle safety at [Waymo](https://waymo.com), and in the life before that, an astronomer at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/).
+Up until recently I was a software engineer working on autonomous vehicle safety at [Waymo](https://waymo.com), and before that, an astronomer at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/).
 
 ### Check out my popular repositories
 
